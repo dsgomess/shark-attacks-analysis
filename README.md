@@ -51,28 +51,28 @@ Durante o pré-processamento dos dados foram realizadas as seguintes etapas:
 Abaixo estão alguns dos principais visuais do dashboard.
 
 ### 🌍 Ataques por País
-![Ataques por País](images/ataques_pais.png)
+![Ataques por País](images/ataques_por_pais.png)
 
 Mostra os países com maior número de ataques registrados.
 
 ---
 
 ### 🦈 Ataques por Espécie
-![Ataques por Espécie](images/ataques_especie.png)
+![Ataques por Espécie](images/ataques_por_especie.png)
 
 Apresenta as espécies mais frequentemente associadas aos incidentes.
 
 ---
 
 ### ⏰ Distribuição por Horário
-![Distribuição por Horário](images/ataques_hora.png)
+![Distribuição por Horário](images/ataque_por_hora.png)
 
 Exibe os períodos do dia com maior concentração de ataques.
 
 ---
 
 ### 🏄 Atividade das Vítimas
-![Atividade](images/ataques_atividade.png)
+![Atividade](images/ataques_por_atividade.png)
 
 Relaciona o tipo de atividade praticada no momento do ataque.
 
