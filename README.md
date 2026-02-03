@@ -51,7 +51,7 @@ Durante o pré-processamento dos dados foram realizadas as seguintes etapas:
 Abaixo estão alguns dos principais visuais do dashboard.
 
 ### 🌍 Ataques por País
-![Ataques por País](images/ataques_por_pais.png)
+![Ataques por País](images/total_de_ataques_por_pais.png)
 
 Mostra os países com maior número de ataques registrados.
 
