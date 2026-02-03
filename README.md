@@ -108,3 +108,15 @@ shark-attacks-analysis/
 ├── powerbi/
 │   └── dashboard.pbix
 └── README.md
+
+---
+
+## 👤 Autor
+
+Deivisson Gomes dos Santos  
+Analista de Dados Júnior | Python • SQL • Power BI  
+UNEB  
+
+LinkedIn: https://www.linkedin.com/in/deivisson-gomes-809160155/  
+GitHub: https://github.com/dsgomess  
+
